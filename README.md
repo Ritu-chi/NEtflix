@@ -1,2 +1,7 @@
-# NEtflix
-NetflixIntro
+# Netflix
+#NetflixIntro
+#availability
+#Interactive
+#movies
+#series
+#Easy
